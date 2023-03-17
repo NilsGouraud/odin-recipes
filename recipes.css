@@ -1,0 +1,39 @@
+html{
+    background-color: white;
+}
+body{
+    background-color: rgb(253, 237, 212);
+    padding: 0 50px;
+    border:1px solid black;
+    border-right:1px solid black;
+    position: absolute;
+    left:15%;
+    right:15%;
+    top:-1%;
+}
+h1,h2,h3{
+    font-variant: small-caps;
+}
+h1{
+    border-bottom: 2px black double;
+}
+h2{
+    border-bottom: 2px black double;
+}
+ul,ol{
+    background-color: white;
+    padding:15px;
+    border:solid 1px grey;
+    box-shadow: 0 0 10px black;
+    border-radius: 5px;
+
+}
+li{
+    padding:10px
+}
+ul li{
+    list-style-type: circle;
+}
+p{
+    font-style: italic;
+}
